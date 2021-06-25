@@ -14,4 +14,4 @@ flask==2.0.1
 python main.py
 ```
 
-Then open [localhost:12345](localhost:12345) in your browser.
+Then open [localhost:12345](http://localhost:12345) in your browser.
